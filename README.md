@@ -31,8 +31,8 @@ Look up your IP address, and add the port number (5000). In windows, you can fin
 
 ## How to extend
 
-Use _/static/img_ to place your images. 
-Use _/static/data/events.json_ to specify your events.
-Use _/templates/index.html_ to edit the page name,
+- Use _/static/img_ to place your images.
+- Use _/static/data/events.json_ to specify your events.
+- Use _/templates/index.html_ to edit the page name.
 
 See the [TimelineJS3 documentation](http://timeline.knightlab.com/docs/options.html) for more options. Have a look at the [Flask Quickstart](http://flask.pocoo.org/docs/0.10/quickstart/) to learn more about flask. 
