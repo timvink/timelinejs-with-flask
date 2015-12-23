@@ -1,6 +1,6 @@
 # timelinejs-with-flask
 Example implementation of using TimelineJS3 with Flask. Can be used as a base template to quickly create your own template. 
-Uses [TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) and [Flask](flask.pocoo.org) to create and host an interactive timeline. 
+Uses [TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) and [Flask](http://flask.pocoo.org) to create and host an interactive timeline. 
 
 ## Installation
 
