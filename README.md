@@ -20,14 +20,15 @@ cd ~/timelinejs-with-flask
 python server.py
 ```
 
-In windows, running the application looks like this: 
+In windows, running the application looks like this:
+
 ![alt text](man/windows_example.jpg "Starting the server")
 
 To view your application, browse to _http://localhost:5000_
 
 ## Sharing your application
 
-Look up your IP address, and add the port number (5000). In windows, you can find your ip adress by typing 'ipconfig' in a cmd shell. 
+Look up your IP address, and add the port number (5000). In windows, you can find your ip adress by typing `ipconfig` in a cmd shell. 
 
 ## How to extend
 
