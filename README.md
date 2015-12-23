@@ -20,8 +20,8 @@ To view your application, browse to _http://localhost:5000_
 
 ## How to extend
 
-Use _/static/img_ to place your images. 
-Use _/static/data/events.json_ to specify your events.
-Use _/templates/index.html_ to edit the page name,
+- Use _/static/img_ to place your images.
+- Use _/static/data/events.json_ to specify your events.
+- Use _/templates/index.html_ to edit the page name.
 
 See the [TimelineJS3 documentation](http://timeline.knightlab.com/docs/options.html) for more options. Have a look at the [Flask Quickstart](http://flask.pocoo.org/docs/0.10/quickstart/) to learn more about flask. 
